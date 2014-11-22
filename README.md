@@ -2,7 +2,7 @@ node-hm-ble
 ===========
 
 [Node.js][node] module to provide an easy [stream] interface to the low cost [Huamao Technology CO][HM]
-[BLE] modules. These modules emulate a serial interface over RF.
+[BLE] modules (tested with HM-10). These modules emulate a serial interface over RF.
 
 [HM]: http://www.jnhuamao.cn/bluetooth.asp?ID=1
 [node]: http://nodejs.org
