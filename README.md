@@ -51,5 +51,5 @@ specify the MAC address of your BLE module like this:
 ```
 
 Once you have constructed your stream object, you can use it like any other stream as described
-in node's [Stream documentation].
+in node's [Stream documentation][stream].
 
