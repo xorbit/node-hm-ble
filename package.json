@@ -1,0 +1,24 @@
+{
+  "name": "node-hm-ble",
+  "version": "0.0.1",
+  "description": "Huamao Technology CO BLE serial interface module",
+  "main": "node-hm-ble.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xorbit/node-hm-ble.git"
+  },
+  "keywords": [
+    "HM-10",
+    "HM-11",
+    "BLE",
+    "Bluetooth",
+    "Low Energy",
+    "Huamao"
+  ],
+  "author": "Patrick Van Oosterwijck",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "noble": "0.3.x"
+  }
+}
